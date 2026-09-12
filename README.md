@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineer | Cyber-Physical Systems | Building at the intersection of software & hardware</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+CBIT;Diploma+in+Cyber+Physical+Systems+%40+GIOE;Exploring+Embedded+Systems+%2B+IoT+%2B+AI;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+CBIT;Exploring+AIML+Software+Development+%2B+IoT+%2B+AI;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 ---
