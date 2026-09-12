@@ -26,7 +26,7 @@
 
 I'm a Computer Science Engineering undergrad at **CBIT, Hyderabad** who ships real, live products — not just repos. I built and shipped **SkillUpAcademy**, an ed-tech platform with an AI-powered study assistant, secure auth, and a real user base, and I run a **YouTube channel** teaching cyber & electronics concepts to students. I'm looking for **Software Development / AI-ML internship or entry-level roles** where I can bring that same build-and-ship energy.
 
-- 🎓 B.E. Computer Science Engineering @ **CBIT** (via TG ECET lateral entry)
+- 🎓 B.E. Computer Science Engineering @ **CBIT** 
 - 🛠️ Diploma in **Cyber-Physical Systems** @ GIOE
 - 🧠 Built a live AI/ML-integrated ed-tech platform from scratch, end to end (frontend → backend → auth → AI)
 - 🎥 Founder & creator of **CyberTech**, a YouTube channel on cybersecurity, electronics & exam guidance
