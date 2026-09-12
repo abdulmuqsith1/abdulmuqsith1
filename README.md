@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | AI/ML Enthusiast | Building products, not just projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CSE+Undergrad+%40+CBIT;Building+AI-powered+products;1000%2B+students+served+via+SkillUpAcademy;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CSE+Undergrad+%40+CBIT;Building+AI-powered+products;SkillUpAcademy+%7C+LockMate+Smart+Lock;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@ I'm a Computer Science Engineering undergrad at **CBIT, Hyderabad** who ships re
 - 🎓 B.E. Computer Science Engineering @ **CBIT** 
 - 🛠️ Diploma in **Cyber-Physical Systems** @ GIOE
 - 🧠 Built a live AI/ML-integrated ed-tech platform from scratch, end to end (frontend → backend → auth → AI)
+- 🔐 Designed & built **LockMate**, a full smart-lock system — biometric auth, IoT connectivity, mobile app control — solo, hardware to cloud
 - 🎥 Founder & creator of **CyberTech**, a YouTube channel on cybersecurity, electronics & exam guidance
 - ⚡ I like taking an idea from "what if" to a deployed URL
 
@@ -51,6 +52,17 @@ An **ed-tech platform** I designed and built solo — from UI to backend to AI i
 🔗 **Live:** [skillupacademyhub.netlify.app](https://skillupacademyhub.netlify.app)
 
 ---
+
+### 🔐 Featured Project — LockMate
+
+A **complete smart-lock system** I built end-to-end — from hardware and firmware to cloud/IoT integration and the control app — solo, concept to deployment.
+
+- 📱 **Mobile app–based lock control** — unlock/lock and monitor the device remotely
+- 🧬 **Biometric authentication** — fingerprint-based secure access instead of physical keys
+- 🌐 **IoT connectivity** — real-time device ↔ cloud ↔ app communication
+- 🧑‍💻 **Full ownership** — system design, hardware setup, firmware, cloud/IoT integration, testing & debugging, all handled by me
+
+**Check it out on linkdin** **:** [LockMate -comfort for u nightmare for intruders](https://www.linkedin.com/posts/abdul-muqsith-954906342_iot-smartlock-innovation-activity-7402360150675800064-lM9h?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGzPDSoBkyezpWxmXwD5gu_78Vxlp_aEUdI)
 
 ### 🎥 Content Creation — [CyberTech](https://www.youtube.com/@cybertech_official-1)
 
